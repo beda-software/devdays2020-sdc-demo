@@ -1,0 +1,9 @@
+version: '3'
+services:
+  init:
+    build: .
+    volumes:
+      - .:/app/user
+    env_file:
+      - .env
+
