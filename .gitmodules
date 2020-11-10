@@ -1,3 +1,0 @@
-[submodule "backend"]
-	path = backend
-	url = git@gitlab.bro.engineering:devdays2020/backend.git
