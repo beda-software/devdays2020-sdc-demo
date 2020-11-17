@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = ../backend
+	url = https://gitlab.bro.engineering/devdays2020/backend.git
 [submodule "frontend"]
 	path = frontend
-	url = ../frontend
+	url = https://gitlab.bro.engineering/devdays2020/frontend.git
