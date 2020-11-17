@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://gitlab.bro.engineering/devdays2020/backend.git
+	url = git@github.com:beda-software/devdays2020-sdc-demo-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://gitlab.bro.engineering/devdays2020/frontend.git
+	url = git@github.com:beda-software/devdays2020-sdc-demo-frontend.git
