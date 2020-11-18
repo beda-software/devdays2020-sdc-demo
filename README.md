@@ -34,5 +34,6 @@
 - Form render engine from https://github.com/beda-software/sdc-hl7-sydney
 - Backend SDC implementation https://github.com/beda-software/aidbox-sdc
 - FHIR React helpers https://github.com/beda-software/aidbox-react
+- JUTE **J**SON **U**niform **Te**mplates https://github.com/healthSamurai/jute.clj
 - FHIR server https://www.health-samurai.io/aidbox
 
