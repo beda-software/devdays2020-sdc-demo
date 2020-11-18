@@ -14,7 +14,7 @@
 
 ## Launch compiled docker images
 - Run ```docker-compose -f docker-compose.production.yaml up```
-- It may take a few minutes for the environment to warm up, please wait untile docker-compose stops fire logs
+- It may take a few minutes for the environment to warm up, please wait untile docker-compose stops firing logs
 - Open http://localhost:5000 in the browser 
 
 ## Launch in development mode 
