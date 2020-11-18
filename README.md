@@ -28,3 +28,11 @@
 - Install packages. Run command:
    ```yarn install```
 - Start project. ```yarn start```
+
+### References
+- Slides for devdays https://drive.google.com/file/d/11BErnYoKvalCLFyakdIFDEsqeWFReTZv/view?usp=sharing
+- Form render engine from https://github.com/beda-software/sdc-hl7-sydney
+- Backend SDC implementation https://github.com/beda-software/aidbox-sdc
+- FHIR React helpers https://github.com/beda-software/aidbox-react
+- FHIR server https://www.health-samurai.io/aidbox
+
