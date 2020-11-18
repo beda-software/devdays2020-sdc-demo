@@ -29,7 +29,7 @@
    ```yarn install```
 - Start project. ```yarn start```
 
-### References
+## References
 - Slides for devdays https://drive.google.com/file/d/11BErnYoKvalCLFyakdIFDEsqeWFReTZv/view?usp=sharing
 - Form render engine from https://github.com/beda-software/sdc-hl7-sydney
 - Backend SDC implementation https://github.com/beda-software/aidbox-sdc
