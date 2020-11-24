@@ -15,7 +15,6 @@ services:
       - .env.base
       - .env
     volumes:
-      - ./backend:/app:cached
       - ./config:/var/config:cached
       - ./wait-for-it.sh:/usr/local/bin/wait-for-it.sh:cached
     # Colored logs
@@ -29,6 +28,7 @@ services:
     ports:
       - "8080:8080"
     env_file:
+      - .env.base
       - .env
     volumes:
       - ./wait-for-it.sh:/usr/local/bin/wait-for-it.sh:cached
