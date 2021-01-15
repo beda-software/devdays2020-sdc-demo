@@ -25,6 +25,7 @@ services:
     ports:
       - "8080:8080"
     env_file:
+      - .env.base
       - .env
     volumes:
       - ./wait-for-it.sh:/usr/local/bin/wait-for-it.sh:cached
